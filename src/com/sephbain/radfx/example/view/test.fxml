@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ProgressIndicator?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sephbain.example.view.Test">
+   <children>
+      <ProgressIndicator layoutX="442.0" layoutY="31.0" progress="0.0" />
+      <Spinner layoutX="421.0" layoutY="107.0" />
+      <Button layoutX="518.0" layoutY="18.0" mnemonicParsing="false" text="Button" />
+   </children>
+</AnchorPane>
